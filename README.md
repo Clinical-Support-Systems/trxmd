@@ -29,6 +29,11 @@
   <p>TrxMD is integrated with CabMD&#174;, Ontario's premium OHIP-billing platform. For users of CabMD&#174; you can easily access your patients. MendMD can be used without CabMD&#174;, if you prefer but why not take the opportunity to simplify your OHIP billing as well?</p>
   <h2>Evidence Based SNOMED CT Integration</h2>
   <p>We've built our system on the international SNOMED CT classification for managing patients and through innovative means, we're turning knowledge management into a standard process. We make it easier to manage your patients. Our goal is to deliver a simple, intuitive experience that allows you to access your patient data in one place and effectively communicate with patients and others within the circle of care.</p>
+  <h2>Best Possible Medication History (BPMH)</h2>
+  <p>The Best Possible Medication History (BPMH) provides an accurate and up-to-date list of a patient’s prescription medications by compiling data directly from the Digital Health Drug Repository (DHDR). This list includes recent dispensations from Ontario pharmacies and serves as a foundation for safe and informed clinical care.</p>
+<h2>Medication Reconciliation</h2>
+
+<p>Medication reconciliation allows clinicians to download a patient’s medication data from the DHDR and manually review it for accuracy. By comparing the DHDR record against their clinical knowledge and the patient's current treatment plan, providers can verify the integrity of the medication list, identify discrepancies, and ensure appropriate follow-up.</p>
 </div>
 
 <hr/>
