@@ -33,4 +33,4 @@
 
 <hr/>
 <h4>Clinical Support Systems, Inc.</h4>
-<p></p><small>We're an experienced design and development team. We combine beautiful, modern designs with clean, functional code to produce stunning applications. Our team is made up of experienced designers and developers who are passionate about building great products. As a result, we're constantly improving our processes to ensure that all of our projects are of the highest quality.</small></p>
+<p><small>We're an experienced design and development team. We combine beautiful, modern designs with clean, functional code to produce stunning applications. Our team is made up of experienced designers and developers who are passionate about building great products. As a result, we're constantly improving our processes to ensure that all of our projects are of the highest quality.</small></p>
