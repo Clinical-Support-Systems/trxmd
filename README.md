@@ -26,7 +26,7 @@
   <h2>OLIS and DHDR</h2>
   <p>TrxMD provides Health Professionals with point-of-care access to Patient Health Information (PHI) through Ontario Health's Digital Health Drug Repository (DHDR) and Ontario Laboratory Information System (OLIS).  TrxMD provides you with fast, simple and secure access to your patient's health information from anywhere, and at any time.</p>
   <h2>Integration with CabMD&#174;</h2>
-  <p>TrxMD is integrated with CabMD&#174;, Ontario's premium OHIP-billing platform. For users of CabMD&#174; you can easily access your patients. MendMD can be used without CabMD&#174;, if you prefer but why not take the opportunity to simplify your OHIP billing as well?</p>
+  <p>TrxMD is integrated with CabMD&#174;, Ontario's premium OHIP-billing platform. For users of CabMD&#174; you can easily access your patients. TrxMD can be used without CabMD&#174;, if you prefer but why not take the opportunity to simplify your OHIP billing as well?</p>
   <h2>Evidence Based SNOMED CT Integration</h2>
   <p>We've built our system on the international SNOMED CT classification for managing patients and through innovative means, we're turning knowledge management into a standard process. We make it easier to manage your patients. Our goal is to deliver a simple, intuitive experience that allows you to access your patient data in one place and effectively communicate with patients and others within the circle of care.</p>
   <h2>Best Possible Medication History (BPMH)</h2>
